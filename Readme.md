@@ -25,6 +25,10 @@ Proyek ini bertujuan untuk mendeteksi status tempat parkir, apakah setiap slot d
 - Result/results.csv: hasil prediksi yang dihasilkan dari proses
 
 
+## Hasil
+
+<img src="https://github.com/Firdausizm/excercize_kaggle-3/blob/main/Result/sample_output.png" width=true />
+
 ## Catatan
 
 Project ini untuk pembelajaran dan eksperimen deteksi parkir berbasis citra video. Hasil model dapat dikembangkan lebih lanjut untuk akurasi yang lebih baik dengan dataset yang lebih beragam.
